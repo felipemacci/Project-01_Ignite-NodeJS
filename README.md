@@ -13,7 +13,6 @@
 #### HOW TO USE:
 * First have NodeJS on your machine
 * With the project folder already open in VS CODE (or similar) type the commands in the sequence: "npm install" and "npm run dev"
-* Then open the server domain
 * Finally, use and enjoy the Ignite Finance REST API!
 
 <br />
